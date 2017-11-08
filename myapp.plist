@@ -12,8 +12,8 @@
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
-     <!-- http»òÕßhttpsÁ´½ÓµÄipaÎÄ¼þµØÖ· -->
-     <string>http://125.35.5.97:8282/jijian/app.ipa</string>
+     <!-- httpæˆ–è€…httpsé“¾æŽ¥çš„ipaæ–‡ä»¶åœ°å€ -->
+     <string>http://10.10.1.30.:8282/jijian/app.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -21,8 +21,8 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <!-- http»òÕßhttpsÁ´½ÓµÄÍ¼Æ¬µØÖ·£¬¿ÉÖ±½ÓÊ¹ÓÃapp¶ÔÓ¦µÄicon£¨·Ö±æÂÊÃ»Ç¿ÖÆÒªÇó£© -->
-     <string>http://125.35.5.97:8282/jijian/icon.png</string>
+     <!-- httpæˆ–è€…httpsé“¾æŽ¥çš„å›¾ç‰‡åœ°å€ï¼Œå¯ç›´æŽ¥ä½¿ç”¨appå¯¹åº”çš„iconï¼ˆåˆ†è¾¨çŽ‡æ²¡å¼ºåˆ¶è¦æ±‚ï¼‰ -->
+     <string>http://10.10.1.30:8282/jijian/icon.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -30,22 +30,22 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <!-- http»òÕßhttpsÁ´½ÓµÄÐ¡Í¼Æ¬µØÖ·£¬¿ÉÖ±½ÓÊ¹ÓÃapp¶ÔÓ¦µÄicon£¨·Ö±æÂÊÃ»Ç¿ÖÆÒªÇó£© -->
-     <string>http://125.35.5.97:8282/jijian/icon.png</string>
+     <!-- httpæˆ–è€…httpsé“¾æŽ¥çš„å°å›¾ç‰‡åœ°å€ï¼Œå¯ç›´æŽ¥ä½¿ç”¨appå¯¹åº”çš„iconï¼ˆåˆ†è¾¨çŽ‡æ²¡å¼ºåˆ¶è¦æ±‚ï¼‰ -->
+     <string>http://10.10.1.30:8282/jijian/icon.png</string>
     </dict>
    </array>
    <key>metadata</key>
    <dict>
     <key>bundle-identifier</key>
-    <!-- BundleID£¬¾ÍÊÇÐÂ½¨appÊ±µÄ°üÃû -->
+    <!-- BundleIDï¼Œå°±æ˜¯æ–°å»ºappæ—¶çš„åŒ…å -->
     <string>com.jijian.shenpi</string>
     <key>bundle-version</key>
-    <!-- °æ±¾ºÅ -->
-    <string>4.0.0</string>
+    <!-- ç‰ˆæœ¬å· -->
+    <string>4.0.2</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
-    <!-- °²×°appÊ±µÄÌáÊ¾ÐÅÏ¢ -->
+    <!-- å®‰è£…appæ—¶çš„æç¤ºä¿¡æ¯ -->
     <string>jijian App download</string>
    </dict>
   </dict>
