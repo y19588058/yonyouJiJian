@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://58.87.85.14:8080/apps/app.ipa</string>
+     <string>http://125.35.5.97:8282/jijian/app.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
